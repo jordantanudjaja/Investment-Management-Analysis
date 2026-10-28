@@ -38,7 +38,6 @@ st.info(
 if st.session_state.crypto_ticker_input_error:
     st.error("Crypto Ticker that was inputted does not exist. Please re-enter another ticker first before viewing this page.")
 else:
-
     crypto_ticker_input = st.session_state.crypto_ticker_input
     info_dict = st.session_state.crypto_info_dict
     crypto_name = info_dict.get("shortName", "N/A")[:-4]
