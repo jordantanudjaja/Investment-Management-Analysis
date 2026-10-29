@@ -97,5 +97,5 @@ A streamlit project that scrapes the yfinance API and serves as an all-in-one te
 - <b>UI/Framework:</b> Streamlit
 - <b>API:</b> Yfinance
 - <b>Data Pipelines:</b> Pandas, NumPy, SciPy
-- <b>Machine Learning:</b> Ntlk
 - <b>Visualization:</b> Plotly
+- <b>Natural Language Processing:</b> Nltk
